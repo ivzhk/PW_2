@@ -1,0 +1,15 @@
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\bin\Debug\net6.0\ПР_2(возвращение).exe
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\bin\Debug\net6.0\ПР_2(возвращение).deps.json
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\bin\Debug\net6.0\ПР_2(возвращение).runtimeconfig.json
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\bin\Debug\net6.0\ПР_2(возвращение).dll
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\bin\Debug\net6.0\ПР_2(возвращение).pdb
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).csproj.AssemblyReference.cache
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).AssemblyInfoInputs.cache
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).AssemblyInfo.cs
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).dll
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\refint\ПР_2(возвращение).dll
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).pdb
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ПР_2(возвращение).genruntimeconfig.cache
+C:\Users\Uzer\Desktop\C#\ПР_2(возвращение)\obj\Debug\net6.0\ref\ПР_2(возвращение).dll
